@@ -130,7 +130,7 @@ The best-performing model was selected based on overall classification performan
 customer-churn-prediction/
 │
 ├── Customer_Churn_Prediction.ipynb
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+├── Telco-Customer-Churn.csv
 ├── README.md
 ├── requirements.txt
 ```
